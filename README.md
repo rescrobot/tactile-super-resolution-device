@@ -6,7 +6,7 @@ This repository contains the code used in the paper:
 *Device* (Cell Press), Manuscript ID: DEVICE-D-25-00477R1
 
 ## Contents
-- `ver3_5fold2_4input_Super_resolution_DEVICE_final.ipynb`  
+- `DEVICE_final.ipynb`  
   - Main notebook for training and evaluation  
   - Reproduces Figures 3–5 in the main text
 
